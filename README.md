@@ -1,6 +1,6 @@
 # Machine_Learning
 
-<b>Descriptions:</b>
+<b>Descriptions:</b> </br>
 Implemeted and analyzed an application of machine learning with Python and Jupyter Notebook.
 
 Applied the following methods:
